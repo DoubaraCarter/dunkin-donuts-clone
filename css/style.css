@@ -1,0 +1,30 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Lobster+Two&family=Pacifico&display=swap');
+
+*{
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Pacifico', cursive; */
+    /* font-family: 'Lobster Two', cursive; */
+    font-family: 'Cabin', sans-serif;
+}
+.btn-pink{
+    background-color: #c63663;
+    color: white;
+}
+.text-brown{
+    color: #3E342F;
+    font-size: 17.92px;
+}
+.text-dunkin{
+    color: #EF6A00;
+}
+.hero-section{
+    background-image: url(../images/Manage_Profile_Header_Desktop.png); 
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    /* height: 270px; */
+}
+
+
