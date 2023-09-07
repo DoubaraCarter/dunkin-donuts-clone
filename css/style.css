@@ -1,16 +1,23 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Lobster+Two&family=Pacifico&display=swap');
+@import url('https://fonts.cdnfonts.com/css/recoleta');
 
-*{
-    /* font-family: 'Poppins', sans-serif; */
-    /* font-family: 'Montserrat', sans-serif; */
-    /* font-family: 'Pacifico', cursive; */
-    /* font-family: 'Lobster Two', cursive; */
-    font-family: 'Cabin', sans-serif;
+@font-face {
+    font-family: dunkin;
+    src: url(../font/Dunkin.otf);
+}
+
+.dunkin-font{
+    font-family: dunkin;
+}
+.recoleta-font{
+    font-family: 'Recoleta', sans-serif;
 }
 .btn-pink{
     background-color: #c63663;
     color: white;
+}
+.btn-outline-brown{
+    border: 2px solid #3E342F;
+    color: #3E342F;
 }
 .text-brown{
     color: #3E342F;
