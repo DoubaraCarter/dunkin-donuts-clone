@@ -33,5 +33,22 @@
     background-repeat: no-repeat; 
     /* height: 270px; */
 }
-
-
+.image-background-2{
+    background-image: url(../images/back_to_school_desktop.png); 
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    /* height: 270px; */
+}
+.partner-line {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #969696; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+.partner-line span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
